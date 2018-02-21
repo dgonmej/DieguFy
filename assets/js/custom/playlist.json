@@ -1,0 +1,59 @@
+{
+    "item1": {
+        "type": "audio",
+        "title": "Blue Sky Black Death - Where Do We Go",
+        "path1": "assets/media/audio/Blue_Sky_Black_Death_-_Where_Do_We_Go.mp3",
+        "extension1": "audio/mpeg"
+    },
+    "item2": {
+        "type": "video",
+        "title": "Vídeo de prueba",
+        "path1": "assets/media/video/prueba.mp4",
+        "path2": "assets/media/video/prueba.webm",
+        "path3": "assets/media/video/prueba.ogg",
+        "extension1": "video/mp4",
+        "extension2": "video/webm",
+        "extension3": "video/ogg",
+        "movil": "assets/media/video/prueba.webm"
+    },
+    "item3": {
+        "type": "audio",
+        "title": "Future Islands - Tin Man",
+        "path1": "assets/media/audio/Future_Islands_-_Tin_Man.mp3",
+        "extension1": "audio/mpeg"
+    },
+    "item4": {
+        "type": "video",
+        "title": "King of the Island with Zorb Balls",
+        "path1": "assets/media/video/King_of_the_Island_with_Zorb_Balls_HD.webm",
+        "path2": "assets/media/video/King_of_the_Island_with_Zorb_Balls_HD.webm",
+        "path3": "assets/media/video/King_of_the_Island_with_Zorb_Balls_HD.ogg",
+        "extension1": "video/mp4",
+        "extension2": "video/webm",
+        "extension3": "video/ogg",
+        "movil": "assets/media/video/King_of_the_Island_with_Zorb_Balls_VGA.webm"
+    },
+    "item5": {
+        "type": "audio",
+        "title": "Jason Silver - Let's Keep Looking",
+        "path1": "assets/media/audio/Jason_Silver_-_Let_s_Keep_Looking.mp3",
+        "extension1": "audio/mpeg"
+    },
+    "item6": {
+        "type": "video",
+        "title": "Sandboarding Supertramp Style",
+        "path1": "assets/media/video/Sandboarding_Supertramp_Style_HD.webm",
+        "path2": "assets/media/video/Sandboarding_Supertramp_Style_HD.webm",
+        "path3": "assets/media/video/Sandboarding_Supertramp_Style_HD.ogg",
+        "extension1": "video/mp4",
+        "extension2": "video/webm",
+        "extension3": "video/ogg",
+        "movil": "assets/media/video/Sandboarding_Supertramp_Style_VGA.webm"
+    },
+    "item7": {
+        "type": "audio",
+        "title": "Summer Heart - Please Stay",
+        "path1": "assets/media/audio/Summer_Heart_-_Please_Stay.mp3",
+        "extension1": "audio/mpeg"
+    }
+}
